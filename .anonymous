@@ -1,0 +1,14 @@
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    int number;
+    cout << "gumawa neto ay si christianbauto: "  << endl;
+    cin >> number;
+    cout << "I hack you goodbye: " << number << endl;
+
+    return 0;
+}
+
